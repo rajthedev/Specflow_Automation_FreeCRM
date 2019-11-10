@@ -16,7 +16,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
 
-           /* //create webdriver
+           //create webdriver
             IWebDriver driver = new ChromeDriver();
 
             //navigate to google page
@@ -27,7 +27,7 @@ namespace ConsoleApp2
 
             element.SendKeys("Execute Automation");
 
-            driver.Close();*/
+            driver.Close();
         }
 
         [SetUp]
